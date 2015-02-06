@@ -17,7 +17,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"creocoder\\behaviors\\": ""
+			"djvibegga\\behaviors\\": ""
 		}
 	}
 }

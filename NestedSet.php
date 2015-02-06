@@ -1,11 +1,11 @@
 <?php
 /**
- * @link https://github.com/creocoder/yii2-nested-set-behavior
+ * @link https://github.com/djvibegga/yii2-nested-set-behavior
  * @copyright Copyright (c) 2013 Alexander Kochetov
  * @license http://opensource.org/licenses/BSD-3-Clause
  */
 
-namespace creocoder\behaviors;
+namespace djvibegga\behaviors;
 
 use yii\base\Behavior;
 use yii\base\Event;
@@ -15,7 +15,7 @@ use yii\db\Expression;
 use yii\db\Exception;
 
 /**
- * @author Alexander Kochetov <creocoder@gmail.com>
+ * @author Alexander Kochetov <djvibegga@gmail.com>
  */
 class NestedSet extends Behavior
 {
